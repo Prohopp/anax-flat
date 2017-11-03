@@ -1,7 +1,8 @@
-<div style="border: 3px solid green;" markdown=1>
+<div style="background-color: lightgray; overflow: auto; width:350px; padding:5px; margin-left:400px;" markdown=1>
 
-Jag är Christoffer.
 
-[Jag själv]()
 
+<img src="http://localhost:8080/design/me/anax-flat/img/chr.jpg" width="70" height="110" style="float:left; margin:5px;"/>
+
+Christoffer läser programmet webbprogrammering på Blekinge Tekniska Högskola.
 </div>

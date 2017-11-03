@@ -1,6 +1,4 @@
-Introduction
+Introduktion
 ===============================
 
-Here are my reports for the different kmoms.
-
-INTRO
+Här ligger mina redovisningar.

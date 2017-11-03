@@ -1,10 +1,12 @@
-About this site
+Om sidan
 ==============================================
 
-The primary focus of this site is to:
+Det här är en hemsida för kursen teknisk webbdesign och användbarhet.
 
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
+Hemsidan kommer förändras med tiden och innehålla redovisningar om kursens uppgifter.
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
+Hemsidan använder ramverket Anax Flat.
 
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
+Länk till [GitHub](https://github.com/Prohopp/anax-flat/tree/master) repot.
+
+![code](../img/code.jpg)
