@@ -13,6 +13,7 @@ views:
 ...
 Välkommen!
 ===============================
+<hr>
 <div style="width: 550px; float:left; margin-right:10px;">
 <p>
 Hej!

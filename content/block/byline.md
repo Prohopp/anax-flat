@@ -1,4 +1,4 @@
-<div style="background-color: lightgray; overflow: auto; width:350px; padding:5px; margin-left:400px;" markdown=1>
+<div class="byline" style="background-color: lightgray; overflow: auto; width:350px; padding:5px;" markdown=1>
 
 
 
